@@ -1,0 +1,29 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "A place to love pizza",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brianrip/pizza-express.git"
+  },
+  "keywords": [
+    "express",
+    "pizza"
+  ],
+  "author": "Brian Rippeto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianrip/pizza-express/issues"
+  },
+  "homepage": "https://github.com/brianrip/pizza-express#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
